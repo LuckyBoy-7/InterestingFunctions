@@ -1,5 +1,5 @@
-# InterestingFunctions
-有趣的轮子
+# InterestingFunctions（有趣的轮子）
+
 
 ##### 1.MultiWindows是类似那种窗口切换的游戏demo（自己想的，可能不太对），不过unity的导包有时候会丢失tag和layer的信息，所以下次要用还得重新调参。。 
 ###### 原理：1.相机的ViewPort到Scene的映射，相机的覆盖关系（改depth），相机的拖拽（select+记录刚开始的偏移量），Player碰到某个相机的collider就改变player的场景
